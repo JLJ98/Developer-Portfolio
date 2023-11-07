@@ -22,4 +22,6 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
+## Sources
+
 I used outside sources for help with CSS styling including Youtube, AskBCS, Xpert Learning Assistant, and ChatGPT.
